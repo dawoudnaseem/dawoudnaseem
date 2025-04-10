@@ -34,8 +34,8 @@ Hey there! I’m Dawoud — an Electrical Engineering student at McGill Universi
 ### 🌄 Cool Photos
 
 <div style="display: flex; gap: 10px;">
-  <img src="Soldering1.jpg" alt="Soldering Work" height="500px" />
-  <img src="Soldering2.jpg" alt="Altium Screenshot" height="500px" />
+  <img src="Soldering1.jpg" alt="Soldering Work" height="400px" />
+  <img src="Soldering2.jpg" alt="Altium Screenshot" height="400px" />
 </div>
 
 
