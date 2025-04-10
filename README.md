@@ -32,8 +32,8 @@
 ### 🌄 Cool Photos
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="Altium.png" alt="Altium Screenshot" width="300px" />
-  <img src="Soldering1.jpg" alt="Soldering Work" width="300px" />
+  <img src="Altium.png" alt="Altium Screenshot" height="300px" />
+  <img src="Soldering1.jpg" alt="Soldering Work" height="300px" />
 </div>
 
 
