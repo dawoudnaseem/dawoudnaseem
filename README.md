@@ -1,10 +1,10 @@
 <img src="Altium.png" alt="Altium Screenshot" />
 
-# 🪐 Dawoud Naseem 🪐
+## 🪐 Dawoud Naseem 🪐
 
 **`I have a secret 🤫 --> (I can control Electricty ⚡️💡)`**
 
-👋 Hey there! I’m Dawoud — an Electrical Engineering student at McGill University passionate about building impactful hardware and software systems. I’m currently part of the McGill Rocket Team's Payload Hardware division, where I work on projects like bone acceleration sensing and thermoelectric cooling for space payloads. Always learning, always building 🚀
+Hey there! I’m Dawoud — an Electrical Engineering student at McGill University passionate about building impactful hardware and software systems. I’m currently part of the McGill Rocket Team's Payload Hardware division, where I work on projects like bone acceleration sensing and thermoelectric cooling for space payloads. Always learning, always building 🚀
 
 ---
 
@@ -34,8 +34,8 @@
 ### 🌄 Cool Photos
 
 <div style="display: flex; gap: 10px;">
-  <img src="Soldering1.jpg" alt="Soldering Work" height="300px" />
-  <img src="Altium.png" alt="Altium Screenshot" height="300px" />
+  <img src="Soldering1.jpg" alt="Soldering Work" height="500px" />
+  <img src="Soldering2.jpg" alt="Altium Screenshot" height="500px" />
 </div>
 
 
