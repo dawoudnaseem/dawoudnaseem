@@ -1,9 +1,15 @@
 ## Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dawoudnaseem/dawoudnaseem/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dawoudnaseem/dawoudnaseem/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/dawoudnaseem/dawoudnaseem/output/github-snake.svg" />
+</picture>
+
 <!--
 **dawoudnaseem/dawoudnaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started with everything:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
